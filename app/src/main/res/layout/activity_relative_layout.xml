@@ -16,21 +16,21 @@
         app:srcCompat="@drawable/imgshawrie" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/edt_email"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="300dp"
         android:text="Enter Email Address" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/edt_passcode"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="370dp"
         android:text="Enter Password" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/btn_login"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="#E91E63"

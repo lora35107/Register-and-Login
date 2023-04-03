@@ -15,7 +15,7 @@
         tools:layout_editor_absoluteY="38dp" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/edtname"
         android:layout_width="303dp"
         android:layout_height="49dp"
         android:hint="Enter your name"
@@ -24,7 +24,7 @@
         tools:layout_editor_absoluteY="215dp" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/edtpasscode"
         android:layout_width="303dp"
         android:layout_height="49dp"
         android:hint="Enter password"
@@ -33,7 +33,7 @@
         tools:layout_editor_absoluteY="514dp" />
 
     <TextView
-        android:id="@+id/textView7"
+        android:id="@+id/edtemail"
         android:layout_width="303dp"
         android:layout_height="49dp"
         android:hint="Enter your email address"
@@ -42,7 +42,7 @@
         tools:layout_editor_absoluteY="415dp" />
 
     <TextView
-        android:id="@+id/textView8"
+        android:id="@+id/edttelephone"
         android:layout_width="303dp"
         android:layout_height="49dp"
         android:hint="Enter your phone number"
@@ -58,14 +58,14 @@
         tools:layout_editor_absoluteY="575dp">
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/btnreg"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Register" />
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/btnlogin"
             android:layout_width="112dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
